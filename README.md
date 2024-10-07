@@ -27,11 +27,9 @@ Step 7: Save and run the application.
 
 ## Program:
  ```
-/*
 Program to create simple calculator using Android Studio.
 Developed by: VINOD KUMAR S
-RegisterNumber:  212222240116
-*/
+RegisterNumber: 212222240116
 ```
 
 ## MainActivity.java:
@@ -307,7 +305,8 @@ public class MainActivity extends AppCompatActivity {
 ```
 ## Output:
 
-![Output](Op1-java5.png)
+![Op1-java5](https://github.com/user-attachments/assets/271a0a50-13dd-45c0-a1d0-cca8df6722ca)
+
 
 ## Result:
 Thus a Simple Android Application to create a calculator using Android Studio was developed and executed successfully.
